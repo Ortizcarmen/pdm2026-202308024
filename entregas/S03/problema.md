@@ -26,9 +26,9 @@
 
 ### Opción B · HMW (“How Might We” / ¿Cómo podríamos…?)
 
-> ¿Cómo podríamos facilitar que Shirley Melissa Gómez mantenga una alimentación saludable durante sus días de trabajo y estudio, de modo que pueda sostener ese hábito sin que el tiempo y el esfuerzo se conviertan en un obstáculo?
+> ¿Cómo podríamos facilitar que Melissa mantenga una alimentación saludable durante sus días de trabajo y estudio, de modo que pueda sostener ese hábito sin que el tiempo y el esfuerzo se conviertan en un obstáculo?
 
-> ¿Cómo podríamos ayudar a Shirley Melissa Gómez a mantener una alimentación saludable incluso cuando su rutina diaria es muy demandante, de modo que no tenga que elegir entre ahorrar tiempo o cuidar su salud?
+> ¿Cómo podríamos ayudar a Melissa a mantener una alimentación saludable incluso cuando su rutina diaria es muy demandante, de modo que no tenga que elegir entre ahorrar tiempo o cuidar su salud?
 
 ---
 
@@ -42,7 +42,7 @@
 
 **Por qué vale la pena resolverlo (1–2 líneas):**
 
-> Es un problema que ocurre prácticamente todos los días laborales. La entrevistada sabe que comer saludable le hace sentir mejor, pero su rutina, el poco tiempo y el esfuerzo de preparar alimentos hacen que abandone el hábito constantemente. Actualmente lo resuelve comprando comida rápida o dejando de comer, soluciones que no eliminan el problema de fondo.
+> Es un problema que ocurre prácticamente todos los días laborales. Meli sabe que comer saludable le hace sentir mejor, pero su rutina, el poco tiempo y el esfuerzo de preparar alimentos hacen que abandone el hábito constantemente. Actualmente lo resuelve comprando comida rápida o dejando de comer, soluciones que no eliminan el problema de fondo.
 
 ---
 
