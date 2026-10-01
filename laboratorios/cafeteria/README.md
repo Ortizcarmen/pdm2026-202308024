@@ -1,17 +1,41 @@
-# cafeteria
+```md
+# Mi pedido de cafetería
 
-A new Flutter project.
+Aplicación Flutter para gestionar un pedido de cafetería.
 
-## Getting Started
+## Productos
 
-This project is a starting point for a Flutter application.
+- Café — Q10.00
+- Sándwich — Q25.00
+- Jugo — Q12.00
+- Pastel — Q18.00
+- Croissant — Q15.00
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Aumentar y disminuir la cantidad de cada producto.
+- Las cantidades no pueden ser menores que 0.
+- Cálculo automático del total.
+- Botón para vaciar el pedido.
+- Uso del widget reutilizable `ProductoPedido`.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ¿Cómo calcula el total?
+
+El total se obtiene multiplicando el precio de cada producto por su cantidad y sumando los resultados.
+
+Por ejemplo:
+
+2 cafés + 1 sándwich + 1 jugo
+
+(2 × Q10.00) + (1 × Q25.00) + (1 × Q12.00)
+
+**Total: Q57.00**
+
+## ¿Por qué conviene reutilizar ProductoPedido?
+
+Porque permite utilizar la misma estructura para todos los productos sin repetir el código de la interfaz. Cada producto recibe sus propios datos, como nombre, precio, icono y cantidad.
+
+## Captura
+
+!![Captura](captura/captura.png)
+```
