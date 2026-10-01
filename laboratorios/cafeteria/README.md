@@ -35,7 +35,6 @@ Por ejemplo:
 
 Porque permite utilizar la misma estructura para todos los productos sin repetir el código de la interfaz. Cada producto recibe sus propios datos, como nombre, precio, icono y cantidad.
 
-## Captura
+## Imagen de visualizacion
 
-!![Captura](captura/captura.png)
-```
+![Captura](captura/captura.png)
