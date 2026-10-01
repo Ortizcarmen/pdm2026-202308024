@@ -1,4 +1,3 @@
-```md
 # Mi pedido de cafetería
 
 Aplicación Flutter para gestionar un pedido de cafetería.
@@ -37,4 +36,4 @@ Porque permite utilizar la misma estructura para todos los productos sin repetir
 
 ## Imagen de visualizacion
 
-![Captura](captura/captura.png)
+![Captura](captura/cafe.png)
